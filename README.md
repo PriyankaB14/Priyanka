@@ -1,2 +1,2 @@
 # Priyanka
-Web Designer
+Web Developer
